@@ -1,12 +1,10 @@
 #include <unistd.h>
 
 /**
+ *main - entry point
  *
- *  * main - entry point
- *
- *   * Return: Always 1
- *
- *    */
+ * Return: Always 1
+ */
 
 int main(void)
 
