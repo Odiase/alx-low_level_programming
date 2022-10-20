@@ -7,6 +7,12 @@
 
 
 /* betty style doc for function main goes there */
+ 
+/**
+*main- This is the main function of the program
+*
+*Return: this returns Zero if no errors
+*/
 
 int main(void)
 
