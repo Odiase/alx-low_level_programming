@@ -5,7 +5,6 @@
 * @size: height of triangle
 */
 
-
 void print_triangle(int size)
 {
 	int s, b;
