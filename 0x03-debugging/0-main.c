@@ -5,8 +5,6 @@
 * Return: All good
 */
 
-
-
 int main(void)
 {
 	int i;
