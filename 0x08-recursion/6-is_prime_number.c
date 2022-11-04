@@ -13,13 +13,15 @@ int is_prime_number(int n)
 
 	int counter = 0;
 
-	for (int i = 0; i < 10; i++)
+	int i = 0;
+
+	for (i = 0; i < 10; i++)
 	{
 		if (n % p_number_array[i] == 0)
-			count++;
+			counter++;
 	}
 
-	if (count == 10)
+	if (counter == 10)
 	{
 		return (1);
 	}
