@@ -16,7 +16,7 @@ int is_prime_number(int n)
 	if (n % p_number_array[counter] != 0)
 	{
 		counter++;
-		is_prime_number(p_number_array[counter]);
+		is_prime_number(p_number_array[n]);
 	}
 	if (counter == 10)
 	{
