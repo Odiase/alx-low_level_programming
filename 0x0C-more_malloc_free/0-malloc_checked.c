@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * *malloc_checked - A function that allocates memory using malloc
- * @b: An unused integ
+ * malloc_checked - A function that allocates memory using malloc
+ * @b: An unused integer
  * Return: A pointer to allocated memory or NULL if it fails
  */
 
